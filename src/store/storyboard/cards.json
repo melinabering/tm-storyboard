@@ -1,0 +1,128 @@
+[
+  {
+    "color": {
+      "r": 0,
+      "g": 122,
+      "b": 195
+    },
+    "columnId": 0,
+    "id": 0,
+    "sortOrder": 100,
+    "swimlaneId": 0,
+    "title": "They're playing the piano while flying in the plane."
+  },
+  {
+    "color": {
+      "r": 234,
+      "g": 143,
+      "b": 0
+    },
+    "columnId": 4,
+    "id": 1,
+    "sortOrder": 100,
+    "swimlaneId": 1,
+    "title":
+      "Thirty years later, she still thought it was okay to put the toilet paper roll under rather than over."
+  },
+  {
+    "color": {
+      "r": 0,
+      "g": 122,
+      "b": 195
+    },
+    "columnId": 0,
+    "id": 2,
+    "sortOrder": 200,
+    "swimlaneId": 0,
+    "title":
+      "My Mom tries to be cool by saying that she likes all the same things that I do."
+  },
+  {
+    "color": {
+      "r": 0,
+      "g": 122,
+      "b": 195
+    },
+    "columnId": 0,
+    "id": 3,
+    "sortOrder": 300,
+    "swimlaneId": 0,
+    "title":
+      "The fog was so dense even a laser decided it wasn't worth the effort."
+  },
+  {
+    "color": {
+      "r": 234,
+      "g": 143,
+      "b": 0
+    },
+    "columnId": 4,
+    "id": 4,
+    "sortOrder": 200,
+    "swimlaneId": 1,
+    "title":
+      "He fumbled in the darkness looking for the light switch, but when he finally found it there was someone already there."
+  },
+  {
+    "color": {
+      "r": 71,
+      "g": 71,
+      "b": 71
+    },
+    "columnId": 2,
+    "id": 5,
+    "sortOrder": 100,
+    "swimlaneId": 2,
+    "title": "All they could see was the blue water surrounding their sailboat."
+  },
+  {
+    "color": {
+      "r": 71,
+      "g": 71,
+      "b": 71
+    },
+    "columnId": 2,
+    "id": 6,
+    "sortOrder": 100,
+    "swimlaneId": 1,
+    "title":
+      "She borrowed the book from him many years ago and hasn't yet returned it."
+  },
+  {
+    "color": {
+      "r": 71,
+      "g": 71,
+      "b": 71
+    },
+    "columnId": 2,
+    "id": 7,
+    "sortOrder": 200,
+    "swimlaneId": 1,
+    "title": "It doesn't sound like that will ever be on my travel list."
+  },
+  {
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 204
+    },
+    "columnId": 2,
+    "id": 8,
+    "sortOrder": 100,
+    "swimlaneId": 0,
+    "title":
+      "I come from a tribe of head-hunters, so I will never need a shrink."
+  },
+  {
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 204
+    },
+    "columnId": 1,
+    "id": 9,
+    "sortOrder": 100,
+    "swimlaneId": 0,
+    "title": "He had accidentally hacked into his company's server."
+  }
+]

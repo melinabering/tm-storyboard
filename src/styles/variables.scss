@@ -1,0 +1,91 @@
+// Custom
+
+dt, h1, h2, h3, h4, h5 {
+    font-weight: 500;
+}
+h1, h2, h5, h6 {
+    line-height: 1.25;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #353535;
+}
+
+p{
+    color:#232323;
+}
+h1{
+    font-size: 1.75rem;
+}
+h2{
+    font-size: 1.5rem;
+}
+h3{
+    font-size: 1.25rem;
+}
+h4{
+    font-size: 1.125rem;
+}
+h5{
+    font-size: 1rem;
+}
+h6{
+    font-weight:400;
+    font-size: 1rem;
+}
+label{
+    font-weight:500;
+    color: #353535;
+    font-size: 14px;
+}
+
+a{
+    color: #005b92;
+}
+
+// Buttons
+$btn-text-transform: normal;
+$btn-font-weight: 500;
+$btn-letter-spacing: normal;
+$btn-border-radius:0;
+
+.v-btn{
+    box-shadow: none;
+}
+
+// Dialog
+$dialog-border-radius:0;
+$dialog-card-text-padding: 0 16px 16px;
+
+.v-dialog .v-card__title {
+    background-color: white;
+    border-bottom: 1px solid #d6d6d6;
+  }
+
+// Card
+.v-card__actions {
+    background-color: #f6f6f6;
+}
+$card-border-radius:0;
+
+.v-card .v-sheet.v-toolbar:not(.v-sheet--outlined) {
+    box-shadow: none;
+    border-bottom:1px solid #d6d6d6;
+}
+
+// $text-field
+$text-field-border-radius:0;
+
+
+// Tabs
+.v-tab {
+    text-transform: capitalize;
+    letter-spacing:normal;
+    font-weight: 400;;
+}
+
+.v-tab.v-tab--active {
+    background-color: #fff;
+    color: #353535;
+}
+
+$tabs-bar-height: 36px;
